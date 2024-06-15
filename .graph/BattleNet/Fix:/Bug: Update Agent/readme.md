@@ -6,3 +6,7 @@ sch: https://www.google.com/search?q=bottles+%22We%27re+having+trouble+launching
 old:
 - https://github.com/bottlesdevs/programs/issues/132
 - https://github.com/bottlesdevs/Bottles/issues/3347
+
+# Solution:
+Use installer from Website:  
+https://download.battle.net/en-us/

@@ -1,5 +1,9 @@
 sch: https://www.google.com/search?q=use+bottles+battlenet
 
+index:
+https://github.com/bottlesdevs/programs/issues?q=Battle
+
+# Solution
 video:
 - [Linux Gaming with Bottles - Battle.net on Linux](https://youtu.be/eJSUDWFKHmM)
 
